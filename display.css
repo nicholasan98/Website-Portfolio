@@ -1,0 +1,39 @@
+.navbar {
+    background-color: rgb(33, 42, 37); 
+}
+
+a {
+    color: rgb(255, 255, 255); 
+}
+
+.nav {
+    padding-left: 5rem;
+    border-bottom: 1px solid transparent;
+}
+
+.nav-link {
+    background-color: rgb(33, 42, 37);
+    padding: 0.5rem 2rem;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: rgb(43, 62, 46);
+    color: rgb(255, 255, 255)
+}
+
+.dropdown-menu {
+    background-color: rgb(43, 62, 46);
+}
+
+[name="dropdown"] {
+    color: rgb(255, 255, 255); 
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+.badge-base{
+    padding-left: 5rem;
+}
+
